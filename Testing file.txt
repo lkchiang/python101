@@ -1,5 +1,5 @@
 This is just a testing file
 
-Exploring.
+Exploring. Testing
 
 Make changes on this file > commit
